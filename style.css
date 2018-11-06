@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+h1 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color:#4aaaa5;
+}
+.navbar-brand {
+    color: #ffffff;
+    background: #4aaaa5;
+    padding: 20px;
+}
+.navbar-brand h1 {
+    color: #ffffff; 
+}
+a.nav-item {
+    display: inline-block;
+}
+.cb-contact-button {
+    background: #4aaaa5; 
+    border: #4aaaa5;
+}
+.work-img {
+    position: relative;
+}
+.text-block {
+    background-color:#4aaaa5;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+}
+.main-content {
+    width: 90%;
+    max-width: 960px;
+    background: #ffffff;
+    padding: 10px;
+    margin: 20px;
+}
